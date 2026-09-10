@@ -4,6 +4,10 @@ En enkel hemsidan som presentera vem jag är och min intress och hur man kan ta 
 
 Denna hemsida skapades av html och litten css som border för tabellen och width för att justera bilder.
 
+## Publicerade i
+[Netlify](https://labbration1.netlify.app/)
+[Rander](https://labbration1.onrender.com/)
+
 ## Frågor som ska svaras
 
 ### Vad är skillnaden mellan git add och git commit?
