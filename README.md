@@ -28,4 +28,4 @@ Denna hemsida skapades av html och litten css som border för tabellen och width
 
 ### Om du vill exkludera någon fil i projektet från versionshanteringen, hur gör du då?
 
-5. För att exkludera en fill i verisionshantering använder man git kommando gitignore.
+5. För att exkludera en fill i verisionshantering skappa man frist en mapp som heter .gitignore och sen skriver in den fillerna som man in exkludera.
